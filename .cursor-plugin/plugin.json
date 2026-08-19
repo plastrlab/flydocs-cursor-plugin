@@ -3,8 +3,11 @@
   "displayName": "FlyDocs",
   "description": "Spec-driven development workflow for AI agents: issue lifecycle, sessions, project updates.",
   "version": "1.3.7",
-  "author": "FlyDocs",
+  "author": {
+    "name": "FlyDocs",
+    "email": "support@flydocs.ai"
+  },
   "license": "MIT",
   "keywords": ["workflow", "issues", "project-management", "spec-driven", "mcp"],
-  "logo": "../assets/flydocs-mark.png"
+  "logo": "assets/flydocs-mark.png"
 }
