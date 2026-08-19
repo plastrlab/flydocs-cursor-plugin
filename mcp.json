@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flydocs": {
+      "command": "npx",
+      "args": ["-y", "@flydocs/cli", "mcp"]
+    }
+  }
+}
