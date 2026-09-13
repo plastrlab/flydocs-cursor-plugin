@@ -1,8 +1,8 @@
 {
   "name": "flydocs",
   "displayName": "FlyDocs",
-  "description": "Spec-driven development workflow for AI agents: issue lifecycle, sessions, project updates.",
-  "version": "1.3.7",
+  "description": "Spec-driven development workflow: your agent works issues, sessions and the status lifecycle.",
+  "version": "1.3.21",
   "author": {
     "name": "FlyDocs",
     "email": "support@flydocs.ai"
